@@ -1,20 +1,31 @@
 🚀 **Data Engineer** | Transformation & Valorisation de la Donnée
 
-Passionné par la data et ayant effectué une reconversion réussie en tant que Data Engineer à la **Wild Code School**, j'ai acquis une solide maîtrise des outils et technologies de la data à travers des projets concrets. J'aime concevoir, optimiser et déployer des pipelines de données robustes pour en faire des leviers de performance.
+Passionné par la data et ayant effectué une reconversion réussie en tant que **Data Engineer** à la **Wild Code School**, j'ai acquis une solide maîtrise des outils et technologies de la data à travers des projets concrets. Je suis motivé par la conception, l'optimisation et le déploiement de pipelines de données robustes, afin de transformer les données en leviers de performance.
+
+🎯 **Ce que je recherche** : Une opportunité en tant que **Data Engineer** dans un environnement stimulant, où je pourrai contribuer à des projets ambitieux et continuer à apprendre aux côtés d'experts du domaine.
 
 🔧 **Compétences techniques** :
-- **Python**, **SQL**, **Spark**
-- **ETL / ELT** : Airflow, Mage
-- **Docker**, **Linux**, **Cloud AWS**
-- **Bases de données** relationnelles et NoSQL
-- **Développement web** : Django, HTML, CSS
+
+- **Data Engineering** :
+  - **Langages** : Python, SQL
+  - **Big Data** : Spark
+  - **ETL / ELT** : Airflow, Mage
+  - **DevOps** : Docker, Git, GitHub
+  - **Cloud** : AWS
+  - **Bases de données** : relationnelles et NoSQL
+  - **Linux** : Bash
+
+- **Développement Web** :
+  - Django, HTML, CSS
 
 🌟 **Soft Skills** :
 - Esprit analytique et résolution de problèmes
-- Adaptabilité et apprentissage rapide
+- Capacité d’adaptation et apprentissage rapide
 - Travail en équipe et communication
+- Rigueur et organisation
 
-🤝 **Ouvert aux opportunités** : Toujours prêt à échanger et collaborer sur des projets data ambitieux. Contactez-moi pour discuter de **collaboration open source** ou de nouveaux défis !
+🤝 **Envie d’échanger** ? Je suis ouvert aux opportunités et aux discussions autour de la data. N’hésitez pas à me contacter !
+
 📫 Comment me contacter : via [LinkedIn](https://www.linkedin.com/in/robin-jochem/).
 
 <!---
