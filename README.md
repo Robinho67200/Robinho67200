@@ -35,8 +35,8 @@ Une opportunité en tant que **Data Engineer** dans un environnement stimulant o
 
 ---
 
-## 💻 Mon Github  
-[https://github.com/Robinho67200](https://github.com/Robinho67200)
+## 🔗 Mon LinkedIn  
+[https://www.linkedin.com/in/robin-jochem/](https://www.linkedin.com/in/robin-jochem/)
 
 ---
 
