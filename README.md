@@ -1,34 +1,44 @@
-🚀 **Data Engineer** | Transformation & Valorisation de la Donnée
+# 🚀 Data Engineer | Transformation & Valorisation de la Donnée
 
-Passionné par la data et ayant effectué une reconversion réussie en tant que **Data Engineer** à la **Wild Code School**, j'ai acquis une solide maîtrise des outils et technologies de la data à travers des projets concrets. Je suis motivé par la conception, l'optimisation et le déploiement de pipelines de données robustes, afin de transformer les données en leviers de performance.
+Professionnel de la data, j’interviens de la collecte à la mise en production.  
+Dans ce cadre, je m’appuie sur une démarche d’amélioration continue pour répondre aux enjeux métiers et rendre les données fiables, accessibles et utiles à tous les niveaux décisionnels.
 
-🎯 **Ce que je recherche** : Une opportunité en tant que **Data Engineer** dans un environnement stimulant, où je pourrai contribuer à des projets ambitieux et continuer à apprendre aux côtés d'experts du domaine.
+## 💡 Ce qui me motive  
+Concevoir, optimiser et déployer des pipelines de données robustes pour transformer les données en leviers de performance.
 
-🔧 **Compétences techniques** :
+## 🎯 Ce que je recherche  
+Une opportunité en tant que **Data Engineer** dans un environnement stimulant où je pourrai contribuer à des projets ambitieux et continuer à apprendre aux côtés d'experts du domaine.
 
-- **Data Engineering** :
-  - **Langages** : Python, SQL
-  - **Big Data** : Spark
-  - **ETL / ELT** : Airflow, Mage
-  - **DevOps** : Docker, Git, GitHub
-  - **Cloud** : AWS
-  - **Bases de données** : relationnelles et NoSQL
-  - **Linux** : Bash
+---
 
-- **Développement Web** :
-  - Django, HTML, CSS
+## 🔧 Compétences techniques
 
-🌟 **Soft Skills** :
-- Esprit analytique et résolution de problèmes
-- Capacité d’adaptation et apprentissage rapide
-- Travail en équipe et communication
-- Rigueur et organisation
+### Data Engineering
+- ✔️ **Langages** : Python, SQL  
+- ✔️ **Big Data** : Spark  
+- ✔️ **ETL / ELT** : Airflow, Mage, DBT  
+- ✔️ **DevOps** : Docker, Git, Github  
+- ✔️ **Cloud** : AWS  
+- ✔️ **Bases de données** : relationnelles et NoSQL  
+- ✔️ **Linux** : Bash  
 
-🤝 **Envie d’échanger** ? Je suis ouvert aux opportunités et aux discussions autour de la data. N’hésitez pas à me contacter !
+### Développement web
+- ✔️ Django, HTML, CSS
 
-📫 Comment me contacter : via [LinkedIn](https://www.linkedin.com/in/robin-jochem/).
+---
 
-<!---
-Robinho67200/Robinho67200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Soft skills
+- ✅ Esprit analytique et de synthèse  
+- ✅ Capacité d’adaptation et apprentissage rapide  
+- ✅ Travail en équipe et communication  
+- ✅ Rigueur et organisation  
+
+---
+
+## 💻 Mon Github  
+[https://github.com/Robinho67200](https://github.com/Robinho67200)
+
+---
+
+## 🤝 Envie d’échanger ?  
+Je suis toujours partant pour discuter de projets autour de la data, alors **n'hésitez pas à me contacter** !
